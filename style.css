@@ -68,3 +68,8 @@ a {
 .di {
     color: #FF00FC;
 }
+
+.full {
+    width: 1024px;
+    margin: 0 auto;
+}
