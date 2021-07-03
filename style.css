@@ -1,0 +1,70 @@
+.heading {
+    color: red;
+    text-align: center;
+    text-shadow: 2px 2px black;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+    font-family: Times New Roman;
+}
+
+div {
+    color: #dd0462;
+}
+
+i {
+    color: #FF3C00;
+}
+
+marquee {
+    color: blue;
+}
+
+h2 {
+    color: 000961;
+    text-align: center;
+    text-decoration: underline;
+    text-transform: capitalize;
+    text-shadow: 2px 2px green;
+}
+
+body {
+    background-color: #C5E2DF;
+}
+
+input {
+    color: blue;
+}
+
+a {
+    color: #FF00BC;
+}
+
+a {
+    color: #00FF0E;
+    text-shadow: 2px 2px red;
+    text-decoration: none;
+}
+
+.submit {
+    background-color: #B4FF05;
+    color: #FF0000;
+    display: block;
+    text-align: center;
+    border-radius: 100px;
+    margin: 20px 0px 0px 20px;
+    border: 2px solid green;
+    padding: 12px 30px;
+    outline: none;
+    cursor: pointer;
+    transition: 0.25px;
+    position: relative;
+    left: 10px;
+    font-size: 20px;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.di {
+    color: #FF00FC;
+}
